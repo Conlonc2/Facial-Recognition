@@ -1,4 +1,4 @@
-  This program is being used to train and test an artificial intelligence
+This program is being used to train and test an artificial intelligence
 to determine weather a presented photo contains a man, or woman.
 
 Steps To Run:
