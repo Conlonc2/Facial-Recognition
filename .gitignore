@@ -1,0 +1,4 @@
+*.pyc
+/__pycache__
+/points_22
+/venv
